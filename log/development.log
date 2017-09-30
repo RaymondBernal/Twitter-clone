@@ -2698,3 +2698,882 @@ Processing by PagesController#index as HTML
   Rendered layouts/_nav_guest.html.erb (0.8ms)
   Rendered layouts/_nav.html.erb (1.9ms)
 Completed 200 OK in 60ms (Views: 59.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:11:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (68.1ms)
+  Rendered layouts/_nav_guest.html.erb (1.5ms)
+  Rendered layouts/_nav.html.erb (7.1ms)
+Completed 200 OK in 414ms (Views: 403.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-4880faf2dbef2e1efe1ab1e3416b2827ad388d1b705bb442d69165411644d101.css?body=1" for 42.115.19.239 at 2017-09-30 07:11:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/transition.self-6ad2488465135ab731a045a8ebbe3ea2fc501aed286042496eda1664fdd07ba9.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/alert.self-742145c5bb847aafdadc6e339be795628f8bc25f177e851f03a8c42278eb0312.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/collapse.self-2eb697f62b587bb786ff940d82dd4be88cdeeaf13ca128e3da3850c5fcaec301.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/modal.self-3e78617ade5663314b7ee0ea10375a5b34d59ffbade44939e3f2a4e4ef2019b3.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tab.self-5bf7078b682f8b131332eefa46b45fa5eff2eca745fc0d03e2991450888f7c28.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/affix.self-6d6f1a7fc5c8aabf3547fa1b794fab6268f54bc55ad815e55873c71f52513517.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/scrollspy.self-969f3c5f48cdf1e439c7fa1154c13b948715f5c689f87837c0b64521d3b46ef6.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/tooltip.self-05afb177e08f98997ccfc84fa08a215e4b27d48d5fe4d049080675e9dffd8199.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/popover.self-0aa93860b59fe7393f1dd490f54b3cb994f9d6155adffce034d4e14ae361b041.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/carousel.self-e47323f363ceb3dc0bdbce05e36e709ed428e339833a41140a85cb0af24b8127.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/button.self-126ac9bf0e7f2d8568f8da3a00fd5f0fac6eae0946331003370161fbf8d7975e.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap/dropdown.self-561cca1cbaf67474e01e9536f106bad541594860a6df997004591c1c1957a147.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:47 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-1d1fddf91adc38ac2045c51f0a3e05ca97d07d24d15a4dcbf705009106489e69.js?body=1" for 42.115.19.239 at 2017-09-30 07:11:48 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:11:50 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.4ms)
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:11:52 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (11.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (118.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 230ms (Views: 204.9ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:11:58 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/NcHUBxT0Y1GCdZXdzL8JLLc7hKbzrKlKvEJ5KYGREwONvSkXPE/Voj23eH5uoPphz3Z9K/Q8PxtWy6I+Lak7w==", "user"=>{"email"=>"test@test.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.4ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "test@test.com"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  UPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["last_sign_in_at", "2017-09-29 10:29:57.352999"], ["current_sign_in_at", "2017-09-30 07:11:58.975571"], ["current_sign_in_ip", "42.115.19.239"], ["sign_in_count", 4], ["updated_at", "2017-09-30 07:11:58.976887"], ["id", 1]]
+  [1m[36m (13.3ms)[0m  [1mcommit transaction[0m
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 218ms (ActiveRecord: 14.2ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:11:59 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.0ms)
+  Rendered layouts/_nav.html.erb (3.5ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/users/sign_out" for 42.115.19.239 at 2017-09-30 07:12:03 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"NdvT/FUt7XjnXAOMrx49xyQPjjO9KilCdMT/qW+FELjL4HVKx4YPFvi9/emUr4p8OAADLi7TjWuuahL16mIFBg=="}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mcommit transaction[0m
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 10ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:12:03 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.3ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddUsernameToUsers (20170930073016)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.5ms)[0m  [1mALTER TABLE "users" ADD "username" varchar[0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+
+  [1m[36m (0.4ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_username" ON "users" ("username")[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20170930073016"]]
+  [1m[36m (12.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_username' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_username' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:43:06 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_nav_guest.html.erb (0.8ms)
+  Rendered layouts/_nav.html.erb (7.2ms)
+Completed 200 OK in 359ms (Views: 343.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 42.115.19.239 at 2017-09-30 07:43:11 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  Rendered devise/shared/_links.html.erb (9.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (58.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 164ms (Views: 130.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/users/sign_up" for 42.115.19.239 at 2017-09-30 07:45:01 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#new as HTML
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  Rendered devise/shared/_links.html.erb (4.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.0ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 65ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 42.115.19.239 at 2017-09-30 07:45:11 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fAUl3Qrdc6oVpxhMbbRCJcdQe83h96K9Eq/WVS/OIkjjZ5+/pI3kXUWUgWA+3VMFmSIJJEcwUoRo7/N1B/267w==", "user"=>{"username"=>"new", "email"=>"new@new.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'new@new.com' LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "users" ("username", "email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["username", "new"], ["email", "new@new.com"], ["encrypted_password", "$2a$11$98vl8ATnLWWAzvcv75V/TelSTb578Ytf8joLnTuJHCPP.LOoTcxES"], ["created_at", "2017-09-30 07:45:12.204335"], ["updated_at", "2017-09-30 07:45:12.204335"]]
+  [1m[36m (11.2ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "last_sign_in_ip" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2017-09-30 07:45:12.218675"], ["current_sign_in_at", "2017-09-30 07:45:12.218675"], ["last_sign_in_ip", "42.115.19.239"], ["current_sign_in_ip", "42.115.19.239"], ["sign_in_count", 1], ["updated_at", "2017-09-30 07:45:12.219838"], ["id", 2]]
+  [1m[35m (12.5ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 313ms (ActiveRecord: 25.2ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:45:12 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (1.1ms)
+  Rendered layouts/_nav.html.erb (4.1ms)
+Completed 200 OK in 55ms (Views: 53.6ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/users/sign_out" for 42.115.19.239 at 2017-09-30 07:45:36 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"fpuiEzaIIltp1coC/c58mjR5C0Qc6pm+NuHrfg8hf37h+RhxmNi1rDnmUy6up226agt5rbotaYdMoc5eJxLn2Q=="}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 8ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:45:37 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.6ms)
+Completed 200 OK in 74ms (Views: 73.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:45:40 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  Rendered devise/shared/_links.html.erb (8.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (21.7ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.1ms)
+Completed 200 OK in 112ms (Views: 107.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:45:51 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oHRVTkzhbxLdCJHyOfSDqJgMPURxomUhyVbeK8NGX3a26KXTQJ3fTbXcCdNIRLYY3CoHuFDLklDdydrY33eJhg==", "user"=>{"email"=>"new@new.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "new@new.com"]]
+  [1m[35m (0.8ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["current_sign_in_at", "2017-09-30 07:45:51.623207"], ["sign_in_count", 2], ["updated_at", "2017-09-30 07:45:51.624964"], ["id", 2]]
+  [1m[35m (9.5ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 297ms (ActiveRecord: 11.1ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:45:52 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.5ms)
+Completed 200 OK in 78ms (Views: 77.3ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/sign_out" for 42.115.19.239 at 2017-09-30 07:45:56 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"VeMM988jLOKBONPfIlyR2C615P3TJHdjSFc4uD7I1k9ofRl9IbG5LodmRwY9y3dEehlzKBTQoWbIf0g7AoqylA=="}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 5ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:45:56 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.4ms)
+Completed 200 OK in 49ms (Views: 48.4ms | ActiveRecord: 0.0ms)
+  [1m[36mUser Load (1.9ms)[0m  [1mSELECT "users".* FROM "users"[0m
+
+
+Started GET "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:49:48 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  Rendered devise/shared/_links.html.erb (11.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (18.5ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 63ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:49:55 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VYnyBx7Aw14at4IfCuvOdh0yxB/x0B6hk2vxE5uCNzBCsxNks+rb/xrX9kw3yzoYBX79GBTmGkIonTXRKzaAGQ==", "user"=>{"email"=>"test@test.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "test@test.com"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "last_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2017-09-30 07:11:58.975571"], ["current_sign_in_at", "2017-09-30 07:49:56.020169"], ["last_sign_in_ip", "42.115.19.239"], ["sign_in_count", 5], ["updated_at", "2017-09-30 07:49:56.021311"], ["id", 1]]
+  [1m[35m (10.5ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 164ms (ActiveRecord: 11.1ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:49:56 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered layouts/_nav_user.html.erb (1.0ms)
+  Rendered layouts/_nav.html.erb (3.1ms)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/sign_out" for 42.115.19.239 at 2017-09-30 07:50:03 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"8CYGJyzWzbCNBl4u/F7188z+uMEjKCITtnpufdt/8WsbS9IC9Xb/O9bY3xjzy0x4GZBGONiHLHIAw2C5M+CzGQ=="}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 6ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:50:04 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_nav_guest.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:50:06 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#new as HTML
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  Rendered devise/shared/_links.html.erb (4.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.2ms)
+  Rendered layouts/_nav_guest.html.erb (0.2ms)
+  Rendered layouts/_nav.html.erb (1.2ms)
+Completed 200 OK in 61ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 42.115.19.239 at 2017-09-30 07:50:13 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Cv1kkkVX0UF4RhCA3SkUs5XKKl+gH10it8mK8fVr4gwdZ9uJ9prghXe8sWshTJp4fRZc+/HhjYniA3+34Bbc3Q==", "user"=>{"email"=>"new@new.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_up) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_up) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:11)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(sign_in) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:sign_in) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:12)
+DEPRECATION WARNING: [Devise] Changing the sanitized parameters through "Devise::ParameterSanitizer#for(account_update) is deprecated and it will be removed from Devise 4.2.
+Please use the `permit` method:
+
+  devise_parameter_sanitizer.permit(:account_update) do |user|
+    # Your block here.
+  end
+ (called from configure_permitted_parameters at /home/ubuntu/workspace/app/controllers/application_controller.rb:13)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "new@new.com"]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2017-09-30 07:45:51.623207"], ["current_sign_in_at", "2017-09-30 07:50:13.344779"], ["sign_in_count", 3], ["updated_at", "2017-09-30 07:50:13.345998"], ["id", 2]]
+  [1m[35m (9.6ms)[0m  commit transaction
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 160ms (ActiveRecord: 10.5ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 07:50:13 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.6ms)
+Completed 200 OK in 42ms (Views: 41.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 42.115.19.239 at 2017-09-30 07:59:46 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (8.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (45.1ms)
+
+
+Started GET "/user" for 42.115.19.239 at 2017-09-30 07:59:49 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/user"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.2ms)
+
+
+Started GET "/user/test" for 42.115.19.239 at 2017-09-30 07:59:53 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+SyntaxError (/home/ubuntu/workspace/app/controllers/pages_controller.rb:9: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+    if @username = params:[id]
+                          ^
+/home/ubuntu/workspace/app/controllers/pages_controller.rb:15: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/pages_controller.rb:9: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+  app/controllers/pages_controller.rb:15: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (29.3ms)
+
+
+Started GET "/user/test" for 42.115.19.239 at 2017-09-30 08:02:36 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+SyntaxError (/home/ubuntu/workspace/app/controllers/pages_controller.rb:10: syntax error, unexpected '[', expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+      @username = params:[id]
+                          ^):
+  app/controllers/pages_controller.rb:10: syntax error, unexpected '[', expecting tSTRING_CONTENT or tSTRING_DBEG or tSTRING_DVAR or tSTRING_END
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (27.8ms)
+
+
+Started GET "/user/test" for 42.115.19.239 at 2017-09-30 08:02:52 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"test"}
+  [1m[35mUser Load (0.4ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "test"]]
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 12ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 08:02:52 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (9.5ms)
+Completed 200 OK in 54ms (Views: 52.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/user/ajsdlasada" for 42.115.19.239 at 2017-09-30 08:02:58 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"ajsdlasada"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "ajsdlasada"]]
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 08:02:58 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.4ms)
+  Rendered layouts/_nav.html.erb (2.5ms)
+Completed 200 OK in 53ms (Views: 51.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/home" for 42.115.19.239 at 2017-09-30 08:03:03 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (2.5ms)
+Completed 200 OK in 43ms (Views: 41.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/user/aisduaiosudoas" for 42.115.19.239 at 2017-09-30 08:03:09 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"aisduaiosudoas"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1[0m  [["username", "aisduaiosudoas"]]
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 08:03:09 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (2.4ms)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/home" for 42.115.19.239 at 2017-09-30 08:03:12 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (2.4ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/user/test" for 42.115.19.239 at 2017-09-30 08:03:26 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"test"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "test"]]
+Redirected to https://ror-twitter-raymondbernal.c9users.io/
+Completed 302 Found in 1ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 42.115.19.239 at 2017-09-30 08:03:26 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.3ms)
+  Rendered layouts/_nav.html.erb (2.2ms)
+Completed 200 OK in 43ms (Views: 41.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/user/new" for 42.115.19.239 at 2017-09-30 08:03:32 +0000
+Cannot render console from 42.115.19.239! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Parameters: {"id"=>"new"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT 1  [["username", "new"]]
+  Rendered pages/profile.html.erb within layouts/application (0.7ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered layouts/_nav_user.html.erb (0.5ms)
+  Rendered layouts/_nav.html.erb (2.9ms)
+Completed 200 OK in 56ms (Views: 54.7ms | ActiveRecord: 0.3ms)
